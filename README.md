@@ -1,2 +1,2 @@
 # floral-flexbox
-This was a simple webpage I created to practice using Flexbox.
+This was a simple webpage I created to practice using Flexbox and media query.
